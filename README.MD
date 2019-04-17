@@ -2,7 +2,7 @@
 Derechos de Autor (C) 2019 Wonder Diaz
 
 Template Material Desing es una Platilla para un Portafolio Personal con un diseño similar a Material Desing de Google.
-proyecto desarrollado con HTML5, Material Desing for Bootstrap, Sass, Typescript, y Gulp.
+proyecto desarrollado con HTML5, Material Desing for Bootstrap, Sass, y Gulp.
 
 ## Inicio Rapido
 - Instalar dependencias Node.js utilizando `npm install` en el directorio
