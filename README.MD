@@ -1,4 +1,4 @@
-# Template Material Desing
+# Portfolio Template Material Desing
 Derechos de Autor (C) 2019 Wonder Diaz
 
 Template Material Desing es una Platilla para un Portafolio Personal con un diseño similar a Material Desing de Google.
@@ -9,7 +9,7 @@ proyecto desarrollado con HTML5, Material Desing for Bootstrap, Sass, Typescript
 - Ejecutar `gulp watch` para realizar cambios en el codigo.
 
 ## Caracteristicas
-Template Material Desing se desarrollo desde 0 utilizando una variedad de Dependencias para automatizar procesos y mantener el codigo limpio y funcional para todos los navegadores actuales.
+Portfolio Template Material Desing se desarrollo desde 0 utilizando una variedad de Dependencias para automatizar procesos y mantener el codigo limpio y funcional para todos los navegadores actuales.
 
 - Plantilla Base Ideal para un Portafolio Personal
 - Diseño Adaptable
@@ -17,13 +17,13 @@ Template Material Desing se desarrollo desde 0 utilizando una variedad de Depend
 
 ## Licencia
 
-Template Material Desing está licenciado bajo la licencia MIT.(http://opensource.org/licenses/MIT)
+Portfolio Template Material Desing está licenciado bajo la licencia MIT.(http://opensource.org/licenses/MIT)
 
 ## Enlaces
 
 Codigo Fuente:
 
-- Template Material Desing: https://github.com/MetalSyntax/Template-Material-Desing
+- Template Material Desing: https://github.com/MetalSyntax/Portfolio-Material-Desing
 
 Donaciones:
 
